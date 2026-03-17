@@ -13,9 +13,9 @@ canvas.height = 600;
 let ball = {
   x: Math.random() * 380 + 10, // Posición aleatoria inicial (evita los bordes)
   y: 0,
-  radius: 15,
-  speed: 3,
-  color: "red",
+  radius: 20,
+  speed: 5,
+  color: "purple",
 };
 
 // 🧍 Control del jugador (la barra)
