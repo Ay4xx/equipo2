@@ -20,8 +20,8 @@ let ball = {
 
 // 🧍 Control del jugador (la barra)
 let catcher = {
-  width: 80,
-  height: 10,
+  width: 100,
+  height: 20,
   x: canvas.width / 2 - 40, // Centrado al inicio
   y: canvas.height - 40,
   color: "white",
