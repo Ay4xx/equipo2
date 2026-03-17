@@ -14,7 +14,7 @@ let ball = {
   x: Math.random() * 380 + 10, // Posición aleatoria inicial (evita los bordes)
   y: 0,
   radius: 15,
-  speed: 3,
+  speed: 10,
   color: "red",
 };
 
