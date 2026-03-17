@@ -20,7 +20,7 @@ let ball = {
 
 // 🧍 Control del jugador (la barra)
 let catcher = {
-  width: 100,
+  width: 150,
   height: 20,
   x: canvas.width / 2 - 40, // Centrado al inicio
   y: canvas.height - 40,
